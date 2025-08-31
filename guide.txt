@@ -1,0 +1,19 @@
+Primitive Data type
++++++++++++++++++++++++++++++++++++
+Number ,string, null, symbol, undefined, Boolean, BigInt
+
+
+Stack 
+---------
+We are getting the copy of memory 
+
+
+
+
+Non Primitive Data type
+++++++++++++++++++++++++++++++
+array, object, functions
+
+Heap Memory
+-----------
+We are getting the refernce 
